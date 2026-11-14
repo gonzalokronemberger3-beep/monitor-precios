@@ -1,0 +1,16 @@
+{
+  "name": "monitor-precios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vigila precios de una lista de productos y avisa cuando cambian",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "vigilar": "node src/cli.js --vigilar",
+    "demo": "node scripts/demo.js",
+    "test": "node --test"
+  }
+}

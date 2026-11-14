@@ -1,0 +1,10 @@
+{
+  "umbralPct": 5,
+  "intervaloMin": 15,
+  "timeoutMs": 5000,
+  "productos": [
+    { "nombre": "Cemento 50 kg", "url": "http://localhost:4000/productos/1" },
+    { "nombre": "Pintura látex 20 L", "url": "http://localhost:4000/productos/2" },
+    { "nombre": "Hierro del 8", "url": "http://localhost:4000/productos/3" }
+  ]
+}
